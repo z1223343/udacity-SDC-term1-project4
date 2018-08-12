@@ -68,6 +68,7 @@ My final source and destination points are:
 | 275,670      | 260, 700      |
 | 1030,670    | 1000, 700      |
 | 711,470      | 1000, 20       |
+
 Then I use `cv2.getPerspectiveTransform` and `cv2.warpPerspective` functions to show the raw picture in 'bird view'.
 
 #### 2.  Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image
