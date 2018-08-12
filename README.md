@@ -97,7 +97,7 @@ I did this in lines 133 through 147 in my code in `code.ipynb`
 
 I implemented this step at the 10th cell in `code.ipynb`, where drawing green area part is located in lines 110 through 130, while printing information part is in line 133 through 155.  Here is an example of my result on a test image:
 
-![alt text][image7]
+![][image7]
 
 ---
 
